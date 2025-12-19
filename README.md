@@ -1,5 +1,3 @@
-# Stability-Ill-Conditioning-and-Information-Flow-in-PDE-Constrained-Learning
-
 # Stability and Information Flow in PDE-Constrained Learning for Imaging Inverse Problems
 
 This repository investigates **stability, ill-conditioning, and information flow** in
